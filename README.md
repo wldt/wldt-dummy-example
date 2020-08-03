@@ -227,10 +227,6 @@ private void emulateExternalGetRequest(int roundIndex) {
 }
 ```
 
-<p align="center">
-  <img class="center" src="images/example_metrics.png" width="80%">
-</p>
-
 The WLDT metric system provides by default two reporting option allowing the developer 
 to periodically save the metrics on a CSV file or to send them directly to a Graphite collector.
 An example of WldtConfiguration enabling both CSV and Graphite monitoring is the following: 
