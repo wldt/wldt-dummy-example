@@ -2,6 +2,8 @@
 
 This project shows how to implement a simple WLDT Worker with a demo configuration and behavior.
 
+NOTE: Import the dependency using maven and settings.xml file to properly address the bintray repository: https://bintray.com/unimore-dipi/wldt-core
+
 ### WLDT Worker Configuration
 
 The interface WldtWorkerConfiguration allows to create your personal data structure containing all the needed information for 
